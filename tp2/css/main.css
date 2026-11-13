@@ -1,0 +1,16 @@
+.app{
+    width: 650px;
+    height: auto;
+    margin: auto;
+    border: 2px solid #000;
+    padding: 20px;
+    display: flex;
+    justify-self: flex-end;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.app fieldset{
+    width: 200px;
+}
+

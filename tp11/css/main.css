@@ -1,0 +1,17 @@
+.parent {
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.cart{
+    display: grid;
+    grid-template-columns: repeat(2,1fr) ;
+    grid-template-rows: repeat(2,1fr);
+}
+.crt{
+        border: 2px solid ;
+        margin: 10px;
+}
+
+

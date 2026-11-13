@@ -1,0 +1,9 @@
+export const t1="Catalogue";
+export const t2="E-Commerce";
+export const t3="Menu Produit";
+export const t4="Menu Panier";
+export const l1=["consulter Produit","Ajouter","suppimer"];
+export const l2=["consulter Panier","vider","Ajouter"];
+export const t5="Liste des produit";
+export const t6="Panier";
+export const lo1=[{id:100,nom:"Abdelhaq",prix:50000},{id:100,nom:"Meriem",prix:40000},{id:100,nom:"Ayoub",prix:56000},{id:100,nom:"Hajar",prix:20000},]
